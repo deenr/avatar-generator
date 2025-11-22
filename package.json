@@ -9,8 +9,6 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "test": "vitest",
-    "lint": "eslint .",
-    "lint:fix": "eslint . --fix",
     "format": "prettier --write ."
   },
   "dependencies": {

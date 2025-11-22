@@ -151,8 +151,6 @@ npm run build        # Build for production
 npm run generate     # Generate static site
 npm run preview      # Preview production build
 npm test             # Run tests
-npm run lint         # Lint code
-npm run lint:fix     # Fix linting issues
 npm run format       # Format code with Prettier
 ```
 
