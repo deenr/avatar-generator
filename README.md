@@ -49,8 +49,8 @@ A modern, production-ready avatar generator built with Nuxt 4. Create beautiful,
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd reen-avatar-generator
+git clone https://github.com/deenr/avatar-generator
+cd avatar-generator
 
 # Install dependencies
 npm install
@@ -88,7 +88,7 @@ npm test -- --watch
 ## 📁 Project Structure
 
 ```
-reen-avatar-generator/
+avatar-generator/
 ├── app/
 │   ├── assets/          # CSS and static assets
 │   ├── components/      # Vue components (atomic design)
